@@ -1,0 +1,560 @@
+{
+  "business": {
+    "name": "Garage Door Doctor",
+    "phone": "+15059778004",
+    "category": "garage door installer",
+    "city": "Albuquerque",
+    "state": "NM"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Albuquerque's Garage Door Experts",
+      "heroSubline": "Reliable garage door services across Albuquerque and surrounding areas. Quality installation, repair, and maintenance.",
+      "aboutTitle": "Your Trusted Albuquerque Garage Door Partner",
+      "aboutText": [
+        "Garage Door Doctor was founded over a decade ago, right here in Albuquerque. We saw a need for honest, dependable garage door services that homeowners could rely on. We're not just another company; we're your neighbors.",
+        "Our approach is simple: treat every customer like family. We pride ourselves on clear communication, transparent pricing, and quality workmanship. We don't cut corners, and we stand behind every job we do.",
+        "We're committed to serving the Albuquerque community. From sponsoring local youth sports teams to supporting local charities, we believe in giving back. We're proud to be a part of this vibrant city."
+      ],
+      "valueProps": [
+        {
+          "title": "Experienced Technicians",
+          "description": "Our team has years of experience working on all types of garage doors and openers."
+        },
+        {
+          "title": "Fast & Reliable Service",
+          "description": "We understand that a broken garage door is an emergency. We offer prompt and reliable service to get your door back in working order quickly."
+        },
+        {
+          "title": "Competitive Pricing",
+          "description": "We offer fair and competitive pricing on all of our services. No hidden fees or surprises."
+        },
+        {
+          "title": "Quality Workmanship",
+          "description": "We use only the highest quality materials and stand behind our workmanship with a satisfaction guarantee."
+        }
+      ],
+      "ctaHeadline": "Need Garage Door Help?",
+      "ctaSubline": "Call us today for a free estimate!"
+    },
+    "services": [
+      {
+        "slug": "garage-door-installation",
+        "name": "Garage Door Installation",
+        "shortDescription": "Professional garage door installation for new homes and replacements.",
+        "description": "Whether you're building a new home in Rio Rancho or replacing an old, worn-out garage door in Nob Hill, Garage Door Doctor provides expert installation services. We offer a wide selection of garage doors to suit your style and budget, from traditional steel doors to modern wood and aluminum designs. We handle everything from removing your old door to installing the new one, ensuring a perfect fit and smooth operation.\n\nOur installation process includes: removing and disposing of your old door, preparing the opening, installing the new door and hardware, connecting and programming the opener, and thoroughly testing the system for safety and functionality. We pay close attention to detail, ensuring proper insulation and weather sealing to protect your garage from the harsh Albuquerque climate. We also educate you on the proper maintenance of your new door to extend its lifespan.\n\nConsidering Albuquerque's diverse architectural styles, we can source specific doors that match the Pueblo Revival, Territorial, or Contemporary styles common throughout the city. We also factor in the intense sun and potential monsoon season when recommending materials, ensuring your new garage door can withstand the elements.",
+        "process": [
+          "Step 1: Consultation and selection of the right door.",
+          "Step 2: Precise measurements and preparation of the garage door opening.",
+          "Step 3: Professional installation of the door, tracks, springs, and opener.",
+          "Step 4: Thorough testing and safety inspection to ensure smooth operation."
+        ],
+        "benefits": [
+          "Improved curb appeal",
+          "Increased home value",
+          "Enhanced security",
+          "Better insulation"
+        ],
+        "faq": [
+          {
+            "question": "How long does garage door installation take?",
+            "answer": "Typically, a standard garage door installation can be completed within 4-6 hours. More complex installations may require additional time."
+          },
+          {
+            "question": "Do you offer a warranty on your installations?",
+            "answer": "Yes, we offer a comprehensive warranty on all of our garage door installations, covering both parts and labor."
+          },
+          {
+            "question": "Can you install a garage door opener I already purchased?",
+            "answer": "While we prefer to install openers that we supply to ensure compatibility and warranty coverage, we can often install customer-provided openers. Please contact us for a consultation."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-repair",
+        "name": "Garage Door Repair",
+        "shortDescription": "Fast and reliable garage door repair services in Albuquerque.",
+        "description": "Is your garage door making strange noises, refusing to open, or hanging crookedly? Garage Door Doctor offers comprehensive repair services to get your door back in working order quickly and safely. We understand the inconvenience and security risks of a malfunctioning garage door, especially during Albuquerque's extreme temperatures.\n\nOur experienced technicians can diagnose and repair a wide range of issues, including broken springs, damaged panels, faulty openers, and misaligned tracks. We use only high-quality replacement parts to ensure long-lasting repairs. We also offer emergency repair services for urgent situations.\n\nGiven Albuquerque's climate, we frequently address issues related to heat expansion and contraction, which can affect door alignment and spring tension. We are also experienced in repairing damage caused by the occasional hail storms that affect the area. Whether you live in an older adobe home in Old Town or a newer stucco house in the Northeast Heights, we have the expertise to handle your garage door repair needs.",
+        "process": [
+          "Step 1: Thorough inspection to identify the problem.",
+          "Step 2: Clear explanation of the repair options and pricing.",
+          "Step 3: Efficient and professional repair work.",
+          "Step 4: Testing and safety check to ensure proper function."
+        ],
+        "benefits": [
+          "Restored security",
+          "Improved safety",
+          "Smooth operation",
+          "Extended door lifespan"
+        ],
+        "faq": [
+          {
+            "question": "How much does a garage door repair cost?",
+            "answer": "The cost of repair depends on the nature of the problem. We offer free estimates, so call us and we can provide a more accurate quote."
+          },
+          {
+            "question": "How quickly can you come out for a repair?",
+            "answer": "We offer same-day and emergency repair services in most cases. Call us to check our availability."
+          },
+          {
+            "question": "Do you repair all brands of garage doors and openers?",
+            "answer": "Yes, we are experienced in repairing all major brands of garage doors and openers."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-opener-repair",
+        "name": "Garage Door Opener Repair",
+        "shortDescription": "Expert repair of all garage door opener types.",
+        "description": "A malfunctioning garage door opener can be a major inconvenience. Garage Door Doctor specializes in repairing all types of garage door openers, including chain drive, belt drive, and screw drive models. We understand the intricacies of these systems and can quickly diagnose and repair any issues.\n\nCommon opener problems we address include: remote control issues, safety sensor malfunctions, motor failures, and gear replacements. We also offer programming services for new remotes and keypads.\n\nAlbuquerque's unique electrical grid sometimes experiences power surges that can damage garage door openers. Our technicians are adept at diagnosing and repairing damage from these surges. We also recommend surge protectors to help prevent future issues.",
+        "process": [
+          "Step 1: Diagnose the opener issue.",
+          "Step 2: Provide a repair estimate.",
+          "Step 3: Replace faulty components.",
+          "Step 4: Test and program the opener."
+        ],
+        "benefits": [
+          "Convenient operation",
+          "Improved security",
+          "Reliable performance",
+          "Extended opener lifespan"
+        ],
+        "faq": [
+          {
+            "question": "Why is my garage door opener not working?",
+            "answer": "There are several reasons why your garage door opener may not be working, including dead batteries, a tripped circuit breaker, or a faulty motor. Our technicians can diagnose the problem and provide a solution."
+          },
+          {
+            "question": "Can you program a new remote for my garage door opener?",
+            "answer": "Yes, we can program new remotes and keypads for most brands of garage door openers."
+          },
+          {
+            "question": "How long do garage door openers typically last?",
+            "answer": "With proper maintenance, a garage door opener can last 10-15 years."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-spring-replacement",
+        "name": "Garage Door Spring Replacement",
+        "shortDescription": "Safe and reliable garage door spring replacement services.",
+        "description": "Broken garage door springs are a common problem, and they can be dangerous to handle without the proper tools and experience. Garage Door Doctor offers safe and reliable garage door spring replacement services. We use only high-quality springs that are designed to last.\n\nWe replace both torsion springs and extension springs, ensuring the correct size and tension for your door. We also inspect the entire system for any other potential problems.\n\nThe dry Albuquerque climate can cause garage door springs to rust and weaken over time. We recommend regular lubrication to help extend their lifespan. We also advise against attempting to replace springs yourself, as serious injury can result.",
+        "process": [
+          "Step 1: Assess the spring type and size needed.",
+          "Step 2: Safely remove the broken spring.",
+          "Step 3: Install the new spring with correct tension.",
+          "Step 4: Test the door balance and operation."
+        ],
+        "benefits": [
+          "Safe operation",
+          "Balanced door",
+          "Reduced strain on opener",
+          "Extended door lifespan"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my garage door spring is broken?",
+            "answer": "Signs of a broken garage door spring include a loud snapping noise, a door that is difficult to lift, or a door that hangs crookedly."
+          },
+          {
+            "question": "How long does it take to replace a garage door spring?",
+            "answer": "Spring replacement typically takes 1-2 hours."
+          },
+          {
+            "question": "Are garage door springs dangerous to replace?",
+            "answer": "Yes, garage door springs are under high tension and can be dangerous to replace without the proper tools and experience. It is always best to hire a professional."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-maintenance",
+        "name": "Garage Door Maintenance",
+        "shortDescription": "Extend the life of your garage door with regular maintenance.",
+        "description": "Regular garage door maintenance is essential to keep your door operating smoothly and safely, and to prevent costly repairs down the road. Garage Door Doctor offers comprehensive maintenance services to keep your door in top condition.\n\nOur maintenance service includes: lubricating moving parts, tightening hardware, inspecting springs and cables, adjusting the opener, and testing safety features. We also provide recommendations for any necessary repairs.\n\nAlbuquerque's dusty environment can cause garage door components to become dirty and worn. Regular cleaning and lubrication can help prevent these issues. We recommend scheduling a maintenance service at least once a year.",
+        "process": [
+          "Step 1: Inspect all components for wear and tear.",
+          "Step 2: Lubricate moving parts.",
+          "Step 3: Tighten loose hardware.",
+          "Step 4: Test safety features and adjust as needed."
+        ],
+        "benefits": [
+          "Extended door lifespan",
+          "Smooth operation",
+          "Reduced repair costs",
+          "Improved safety"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my garage door serviced?",
+            "answer": "We recommend having your garage door serviced at least once a year."
+          },
+          {
+            "question": "What is included in a garage door maintenance service?",
+            "answer": "Our maintenance service includes inspecting all components, lubricating moving parts, tightening hardware, and testing safety features."
+          },
+          {
+            "question": "Can I perform garage door maintenance myself?",
+            "answer": "While some basic maintenance can be done yourself, such as lubricating the tracks, it is best to have a professional perform a thorough inspection and service."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-panel-replacement",
+        "name": "Garage Door Panel Replacement",
+        "shortDescription": "Replace damaged garage door panels to restore your door's appearance.",
+        "description": "Damaged garage door panels can detract from your home's curb appeal. Garage Door Doctor offers panel replacement services to restore your door's appearance and functionality. We can match existing panels or replace the entire door if necessary.\n\nWe work with all types of garage door panels, including steel, wood, and aluminum. We also offer insulation upgrades to improve energy efficiency.\n\nHail storms are relatively common in Albuquerque, and they can cause significant damage to garage door panels. We are experienced in replacing panels damaged by hail and other weather events.",
+        "process": [
+          "Step 1: Assess the damage and identify the panel type.",
+          "Step 2: Source a matching replacement panel.",
+          "Step 3: Carefully remove the damaged panel.",
+          "Step 4: Install the new panel and ensure proper alignment."
+        ],
+        "benefits": [
+          "Improved curb appeal",
+          "Restored functionality",
+          "Increased home value",
+          "Enhanced insulation"
+        ],
+        "faq": [
+          {
+            "question": "Can I replace just one panel of my garage door?",
+            "answer": "Yes, in most cases, we can replace just one panel of your garage door."
+          },
+          {
+            "question": "How do I know what type of panel my garage door has?",
+            "answer": "Our technicians can help you identify the type of panel your garage door has."
+          },
+          {
+            "question": "How long does it take to replace a garage door panel?",
+            "answer": "Panel replacement typically takes 1-2 hours."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Albuquerque",
+        "slug": "albuquerque-nm",
+        "state": "NM",
+        "content": "Garage Door Doctor is proud to offer comprehensive garage door services to the residents of Albuquerque, New Mexico. From the vibrant neighborhoods of Nob Hill and the historic Old Town to the sprawling suburbs of the Northeast Heights and the West Side, we are committed to providing top-notch garage door repair, installation, and maintenance services throughout the Albuquerque metro area. We understand the unique needs of Albuquerque homeowners and businesses, and we strive to deliver reliable and affordable solutions tailored to your specific requirements.\n\nWhether you need a quick repair to get your garage door back on track, a complete garage door replacement to enhance your home's curb appeal, or regular maintenance to keep your garage door operating smoothly, Garage Door Doctor has you covered. Our team of experienced and certified technicians is equipped with the latest tools and technology to handle any garage door issue, big or small. We are dedicated to providing exceptional customer service and ensuring your complete satisfaction.",
+        "localContext": "Albuquerque, a city known for its stunning desert landscapes, vibrant culture, and unique architecture, presents specific challenges for garage door maintenance due to the dry climate and occasional extreme weather conditions. Garage Door Doctor understands these local factors and provides tailored solutions to ensure the longevity and optimal performance of your garage door.",
+        "nearbyAreas": [
+          "Rio Rancho",
+          "Los Ranchos de Albuquerque",
+          "South Valley"
+        ]
+      },
+      {
+        "city": "Rio Rancho",
+        "slug": "rio-rancho-nm",
+        "state": "NM",
+        "content": "Garage Door Doctor extends its expert garage door services to the rapidly growing community of Rio Rancho, New Mexico. As one of the largest cities in the state, Rio Rancho boasts a diverse range of homes and businesses, each with unique garage door needs. We are dedicated to providing reliable and affordable garage door solutions to the residents and businesses of Rio Rancho, ensuring their safety and convenience.\n\nFrom routine maintenance and minor repairs to complete garage door installations, our team of skilled technicians is equipped to handle any garage door project in Rio Rancho. We understand the importance of a properly functioning garage door for security and convenience, and we strive to deliver prompt and efficient service to minimize any disruption to your daily life.",
+        "localContext": "Rio Rancho's high desert climate and growing population contribute to specific garage door maintenance needs, requiring durable and well-maintained systems. Garage Door Doctor provides specialized services to address these local challenges, ensuring the long-term performance of your garage door.",
+        "nearbyAreas": [
+          "Albuquerque",
+          "Placitas",
+          "Bernalillo"
+        ]
+      },
+      {
+        "city": "Los Lunas",
+        "slug": "los-lunas-nm",
+        "state": "NM",
+        "content": "Garage Door Doctor is pleased to serve the village of Los Lunas, New Mexico, providing reliable and professional garage door services to its residents. As a growing community with a mix of residential and commercial properties, Los Lunas requires dependable garage door solutions, and we are committed to meeting those needs with expertise and integrity.\n\nWhether you need a quick repair, a new garage door installation, or routine maintenance, our team of skilled technicians is ready to assist you in Los Lunas. We understand the importance of a functional and secure garage door for your home or business, and we strive to deliver prompt and efficient service at a competitive price.",
+        "localContext": "Los Lunas' location in the Rio Grande Valley and its proximity to agricultural areas can expose garage doors to unique environmental factors. Garage Door Doctor offers tailored solutions to protect your garage door from these elements and ensure its longevity.",
+        "nearbyAreas": [
+          "Belen",
+          "Peralta",
+          "Bosque Farms"
+        ]
+      },
+      {
+        "city": "South Valley",
+        "slug": "south-valley-nm",
+        "state": "NM",
+        "content": "Garage Door Doctor offers its expert garage door services to the South Valley area of Albuquerque, New Mexico. This vibrant and historic community has unique needs and we are committed to providing reliable and affordable garage door solutions. We understand the importance of a properly functioning garage door for the safety and convenience of South Valley residents.\n\nFrom routine maintenance and minor repairs to complete garage door installations, our team of skilled technicians is equipped to handle any garage door project. We strive to deliver prompt and efficient service to minimize any disruption to your daily life.",
+        "localContext": "The South Valley's unique blend of rural and urban characteristics requires a garage door service that understands local needs. Garage Door Doctor provides specialized services to address these local challenges, ensuring the long-term performance of your garage door.",
+        "nearbyAreas": [
+          "Albuquerque",
+          "Isleta Village Proper",
+          "Los Padillas"
+        ]
+      },
+      {
+        "city": "North Valley",
+        "slug": "north-valley-nm",
+        "state": "NM",
+        "content": "Garage Door Doctor is proud to provide top-quality garage door services to the residents and businesses of Albuquerque's North Valley. This area, known for its beautiful homes and unique character, deserves the best in garage door repair, installation, and maintenance. We're dedicated to ensuring your garage door operates smoothly and securely.\n\nWhether you need a quick fix, a brand-new garage door, or regular upkeep, our experienced team is ready to help. We understand the specific needs of North Valley properties and strive to deliver exceptional customer service with every job.",
+        "localContext": "The North Valley's lush environment and diverse architectural styles require garage doors that are both functional and aesthetically pleasing. Garage Door Doctor offers a range of options to complement the unique character of North Valley homes.",
+        "nearbyAreas": [
+          "Los Ranchos de Albuquerque",
+          "Albuquerque",
+          "Corrales"
+        ]
+      },
+      {
+        "city": "Los Ranchos de Albuquerque",
+        "slug": "los-ranchos-de-albuquerque-nm",
+        "state": "NM",
+        "content": "Garage Door Doctor proudly serves the village of Los Ranchos de Albuquerque, offering reliable and professional garage door services to its residents. Known for its beautiful homes and large lots, Los Ranchos requires garage door solutions that are both functional and aesthetically pleasing. We are committed to providing the highest quality service and products to meet the unique needs of this community.\n\nFrom routine maintenance and repairs to complete garage door installations, our team of experienced technicians is equipped to handle any project. We understand the importance of a properly functioning and secure garage door for your home and family, and we strive to deliver prompt and efficient service at a competitive price.",
+        "localContext": "Los Ranchos de Albuquerque's unique blend of rural charm and upscale residences requires garage doors that are both durable and visually appealing. Garage Door Doctor offers a wide selection of styles and materials to complement the distinctive architecture of the area.",
+        "nearbyAreas": [
+          "Albuquerque",
+          "North Valley",
+          "Corrales"
+        ]
+      },
+      {
+        "city": "Placitas",
+        "slug": "placitas-nm",
+        "state": "NM",
+        "content": "Garage Door Doctor extends its comprehensive garage door services to the scenic community of Placitas, New Mexico. Nestled in the foothills of the Sandia Mountains, Placitas offers a unique blend of natural beauty and artistic charm. We are dedicated to providing reliable and affordable garage door solutions to the residents of Placitas, ensuring their safety and convenience.\n\nWhether you need a quick repair, a new garage door installation, or routine maintenance, our team of skilled technicians is ready to assist you in Placitas. We understand the importance of a functional and secure garage door for your home, and we strive to deliver prompt and efficient service at a competitive price.",
+        "localContext": "Placitas' mountainous terrain and artistic community require garage doors that are both durable and aesthetically pleasing. Garage Door Doctor offers tailored solutions to meet these specific needs, ensuring the long-term performance and visual appeal of your garage door.",
+        "nearbyAreas": [
+          "Rio Rancho",
+          "Bernalillo",
+          "Sandia Park"
+        ]
+      },
+      {
+        "city": "Bernalillo",
+        "slug": "bernalillo-nm",
+        "state": "NM",
+        "content": "Garage Door Doctor is pleased to offer its expert garage door services to the town of Bernalillo, New Mexico. With its rich history and growing community, Bernalillo requires dependable garage door solutions, and we are committed to meeting those needs with expertise and integrity. We understand the importance of a safe and functional garage door for your home or business.\n\nFrom repairs and maintenance to new installations, our team of skilled technicians is ready to assist you in Bernalillo. We offer a wide range of services to ensure your garage door operates smoothly and reliably, providing you with peace of mind.",
+        "localContext": "Bernalillo's location along the Rio Grande and its historic architecture require garage doors that are both durable and aesthetically appropriate. Garage Door Doctor understands these local factors and provides solutions that blend seamlessly with the town's unique character.",
+        "nearbyAreas": [
+          "Rio Rancho",
+          "Placitas",
+          "Algondones"
+        ]
+      },
+      {
+        "city": "Corrales",
+        "slug": "corrales-nm",
+        "state": "NM",
+        "content": "Garage Door Doctor is committed to providing exceptional garage door services to the village of Corrales, New Mexico. Known for its rural charm and agricultural heritage, Corrales requires garage door solutions that are both practical and aesthetically pleasing. We are dedicated to serving the unique needs of this community with the highest level of professionalism and expertise.\n\nWhether you need a simple repair, a complete garage door replacement, or routine maintenance, our team of experienced technicians is ready to assist you in Corrales. We understand the importance of a properly functioning and secure garage door for your home or business, and we strive to deliver prompt, reliable service at a competitive price.",
+        "localContext": "Corrales' rural character and emphasis on preserving its natural beauty require garage doors that blend seamlessly with the landscape. Garage Door Doctor offers a variety of styles and materials that complement the unique aesthetic of Corrales homes.",
+        "nearbyAreas": [
+          "Rio Rancho",
+          "Albuquerque",
+          "North Valley"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Garage Door Spring Replacement",
+        "text": "My garage door spring broke on a Sunday morning, and I was worried about being stuck. Garage Door Doctor came out within an hour and replaced it quickly and professionally. The technician was polite and explained everything clearly. Highly recommend!",
+        "date": "2025-07-15"
+      },
+      {
+        "name": "David S.",
+        "rating": 4,
+        "service": "Garage Door Opener Repair",
+        "text": "My garage door opener stopped working, and I couldn't get my car out. Garage Door Doctor diagnosed the problem quickly and replaced a faulty sensor. The price was reasonable, and the service was excellent.",
+        "date": "2025-06-22"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "New Garage Door Installation",
+        "text": "We recently built a new home in Rio Rancho and needed a garage door installed. Garage Door Doctor provided excellent service from start to finish. They helped us choose the perfect door for our home and installed it flawlessly. We are very happy with the results.",
+        "date": "2025-05-10"
+      },
+      {
+        "name": "Robert K.",
+        "rating": 5,
+        "service": "Garage Door Maintenance",
+        "text": "I've been using Garage Door Doctor for annual maintenance for the past five years, and they always do a great job. They are reliable, professional, and their prices are fair. I highly recommend them to anyone needing garage door service.",
+        "date": "2025-04-01"
+      },
+      {
+        "name": "Sarah M.",
+        "rating": 4,
+        "service": "Garage Door Repair",
+        "text": "My garage door was making a lot of noise and not closing properly. Garage Door Doctor came out and fixed the problem quickly and efficiently. The technician was knowledgeable and explained the repair process clearly. I would definitely use them again.",
+        "date": "2025-03-18"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Garage Door Panel Replacement",
+        "text": "After a particularly nasty hail storm, several panels on my garage door were damaged. Garage Door Doctor was able to source matching panels and replace them quickly. My garage door looks brand new again!",
+        "date": "2025-02-05"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Garage Door Doctor | Albuquerque, NM",
+        "description": "Albuquerque's trusted garage door experts. Installation, repair, and maintenance. Call today for a free estimate!"
+      },
+      "about": {
+        "title": "About Garage Door Doctor",
+        "description": "Learn about Garage Door Doctor's commitment to quality garage door service in Albuquerque, NM."
+      },
+      "services": {
+        "title": "Garage Door Services | Albuquerque",
+        "description": "Comprehensive garage door services: installation, repair, maintenance, and more in Albuquerque, NM."
+      },
+      "contact": {
+        "title": "Contact Garage Door Doctor",
+        "description": "Contact Garage Door Doctor for garage door service in Albuquerque. Get a free estimate today!"
+      },
+      "reviews": {
+        "title": "Garage Door Doctor Reviews",
+        "description": "Read what our customers are saying about Garage Door Doctor's garage door services in Albuquerque, NM."
+      },
+      "service-areas": {
+        "title": "Garage Door Service Areas",
+        "description": "Garage Door Doctor provides garage door service in Albuquerque and surrounding New Mexico cities."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "garage-door-installation": "/images/service-garage-door-installation.webp",
+      "garage-door-repair": "/images/service-garage-door-repair.webp",
+      "garage-door-opener-repair": "/images/service-garage-door-opener-repair.webp",
+      "garage-door-spring-replacement": "/images/service-garage-door-spring-replacement.webp",
+      "garage-door-maintenance": "/images/service-garage-door-maintenance.webp",
+      "garage-door-panel-replacement": "/images/service-garage-door-panel-replacement.webp"
+    },
+    "servicesResponsive": {
+      "garage-door-installation": {
+        "src": "/images/service-garage-door-installation.webp",
+        "srcset": "/images/service-garage-door-installation-400w.webp 400w, /images/service-garage-door-installation-800w.webp 800w, /images/service-garage-door-installation-1200w.webp 1200w, /images/service-garage-door-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-repair": {
+        "src": "/images/service-garage-door-repair.webp",
+        "srcset": "/images/service-garage-door-repair-400w.webp 400w, /images/service-garage-door-repair-800w.webp 800w, /images/service-garage-door-repair-1200w.webp 1200w, /images/service-garage-door-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-opener-repair": {
+        "src": "/images/service-garage-door-opener-repair.webp",
+        "srcset": "/images/service-garage-door-opener-repair-400w.webp 400w, /images/service-garage-door-opener-repair-800w.webp 800w, /images/service-garage-door-opener-repair-1200w.webp 1200w, /images/service-garage-door-opener-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-spring-replacement": {
+        "src": "/images/service-garage-door-spring-replacement.webp",
+        "srcset": "/images/service-garage-door-spring-replacement-400w.webp 400w, /images/service-garage-door-spring-replacement-800w.webp 800w, /images/service-garage-door-spring-replacement-1200w.webp 1200w, /images/service-garage-door-spring-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-maintenance": {
+        "src": "/images/service-garage-door-maintenance.webp",
+        "srcset": "/images/service-garage-door-maintenance-400w.webp 400w, /images/service-garage-door-maintenance-800w.webp 800w, /images/service-garage-door-maintenance-1200w.webp 1200w, /images/service-garage-door-maintenance.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-panel-replacement": {
+        "src": "/images/service-garage-door-panel-replacement.webp",
+        "srcset": "/images/service-garage-door-panel-replacement-400w.webp 400w, /images/service-garage-door-panel-replacement-800w.webp 800w, /images/service-garage-door-panel-replacement-1200w.webp 1200w, /images/service-garage-door-panel-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}

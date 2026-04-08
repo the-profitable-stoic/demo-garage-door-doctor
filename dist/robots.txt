@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-garage-door-doctor.dream-surge.com/sitemap-index.xml
